@@ -356,7 +356,7 @@ for i in values:
     total += i
 
 average = total / len(values)
-print("The average is:", average)
+print("The average  of is:", average)
 
 # Output explanation:
 # Sums all values and divides by the count to find the average.
